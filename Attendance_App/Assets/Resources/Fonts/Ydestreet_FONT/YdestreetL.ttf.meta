@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9f2f69919525ba64581685bf15cd8971
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Yde street
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0328ffb2e3e28ff4ca515ee9daa1eae5, type: 3}
+  - {fileID: 12800000, guid: fe0d53f3d1e9d97448ca45c5ef82483b, type: 3}
+  - {fileID: 12800000, guid: 9fa925b507fe77943bc472f191c7a6c5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
